@@ -69,13 +69,3 @@ Akses aplikasi: http://<IP_VM_GCP>
 👤 Author
 Ibrahim Segeir
 GitHub: https://github.com/baimsegeir
-
----
-
-# 🟢 STEP TERAKHIR — PUSH README KE GITHUB
-
-Di VM:
-```bash
-git add README.md
-git commit -m "Add complete project documentation"
-git push origin main
