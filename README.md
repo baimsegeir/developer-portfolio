@@ -1,11 +1,7 @@
-# Judul Project
-## Deskripsi
-## Teknologi
-## Arsitektur Singkat
+# Final Project: Cloud Full-Stack Deployment
 ## Cara Menjalankan (Local & Docker)
 ## CI/CD Pipeline
 ## Deployment
-## Monitoring (Optional)
 ## Author
 # Cloud Full-Stack Deployment – Developer Portfolio
 
